@@ -19,6 +19,7 @@ header {
 }
 .header__left-image img {
   width: -webkit-fill-available;
+  width: -moz-available;  
 }
 #faqs {
   border: none;
