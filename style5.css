@@ -20,8 +20,6 @@ header {
 .header__left-image img {
   width: 100%;
   width: -webkit-fill-available;
-  width: -moz-available;
-  width: fill-available;
 }
 #faqs {
   border: none;
