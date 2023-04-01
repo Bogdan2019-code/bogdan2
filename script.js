@@ -27,52 +27,52 @@ function changeCurrentSlider (event) {
     
     switch (buttonCount) {
       case "0":
-        leftImage.setAttribute('src', 'images/compares/first_compare/overpass_back_long_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/first_compare/overpass_back_long_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_back_long_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_back_long_s1.jpg')
         break;
       case "1":
-        leftImage.setAttribute('src', 'images/compares/first_compare/overpass_lower_tunnel_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/first_compare/overpass_lower_tunnel_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_lower_tunnel_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_lower_tunnel_s1.jpg')
         break;
       case "2":
-        leftImage.setAttribute('src', 'images/compares/first_compare/overpass_toilets_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/first_compare/overpass_toilets_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_toilets_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_toilets_s1.jpg')
         break;
       case "3":
-        leftImage.setAttribute('src', 'images/compares/first_compare/overpass_van_vista_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/first_compare/overpass_van_vista_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_van_vista_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_van_vista_s1.jpg')
         break;
       case "4":
-        leftImage.setAttribute('src', 'images/compares/second_compare/nuke_default_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/second_compare/nuke_default_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_default_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_default_s1.jpg')
         break;
       case "5":
-        leftImage.setAttribute('src', 'images/compares/second_compare/nuke_ramp_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/second_compare/nuke_ramp_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_ramp_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_ramp_s1.jpg')
         break;
       case "6":
-        leftImage.setAttribute('src', 'images/compares/second_compare/nuke_t_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/second_compare/nuke_t_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_t_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_t_s1.jpg')
         break;
       case "7":
-        leftImage.setAttribute('src', 'images/compares/second_compare/nuke_backhall_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/second_compare/nuke_backhall_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_backhall_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_backhall_s1.jpg')
         break;
       case "8":
-        leftImage.setAttribute('src', 'images/compares/third_compare/dust2_back_plat_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/third_compare/dust2_back_plat_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_back_plat_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_back_plat_s1.jpg')
         break;
       case "9":
-        leftImage.setAttribute('src', 'images/compares/third_compare/dust2_blue_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/third_compare/dust2_blue_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_blue_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_blue_s1.jpg')
         break;
       case "10":
-        leftImage.setAttribute('src', 'images/compares/third_compare/dust2_ct_ramp_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/third_compare/dust2_ct_ramp_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_ct_ramp_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_ct_ramp_s1.jpg')
         break;
       case "11":
-        leftImage.setAttribute('src', 'images/compares/third_compare/dust2_double_doors_s2.jpg')
-        rightImage.setAttribute('src', 'images/compares/third_compare/dust2_double_doors_s1.jpg')
+        leftImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_double_doors_s2.jpg')
+        rightImage.setAttribute('src', 'https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/dust2_double_doors_s1.jpg')
         break;
       default:
         break;
