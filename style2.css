@@ -2,7 +2,7 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 header {
-  background-image: url('../images/header/header_bg.svg');
+  background-image: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/header_bg.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -178,7 +178,7 @@ header {
   }
 }
 .new__era {
-  background-image: url('../images/bgDarkBlue.svg');
+  background-image: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/bgDarkBlue.svg');
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -231,7 +231,7 @@ header {
 }
 
 .new__rules {
-  background-image: url('../images/bgGray.svg');
+  background-image: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/bgGray.svg');
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -348,7 +348,7 @@ header {
   display: block;
   width: 60px;
   height: 60px;
-  background: url('../videos/play_button.svg');
+  background: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/global/play_button.svg');
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -432,7 +432,7 @@ header {
 }
 
 .tickrait {
-  background-image: url('../images/bgOrange.svg');
+  background-image: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/bgOrange.svg');
 }
 .tickrait__card {
   background: #ff9b01;
@@ -641,7 +641,7 @@ header {
 /* ============================================== NEW SKINS ========================================== */
 
 .new__skins {
-  background-image: url('../images/bgDarkBlue.svg');
+  background-image: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/bgDarkBlue.svg');
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -694,7 +694,7 @@ header {
 /* ========================== NEW VOLUME SECTION =============================================== */
 
 .new__volume {
-  background: url('../images/bgOrange.svg');
+  background: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/bgOrange.svg');
 }
 .new__volume-card {
   background: #ff9b01;
@@ -724,7 +724,7 @@ header {
 /* =========================== AND MORE SECTION =================================================== */
 
 .and__more {
-  background: url('../images/bgGray.svg');
+  background: url('https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react//cs2/bgGray.svg');
 }
 .and__more-card {
   background: #eee;
